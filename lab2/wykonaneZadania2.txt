@@ -1,0 +1,5 @@
+Wykonanane
+Zbiory punktów 
+Wizualizacja punktów 
+Algorytm Grahama i Jarvisa
+Wizualizacja wyniku otoczki wypukłej
